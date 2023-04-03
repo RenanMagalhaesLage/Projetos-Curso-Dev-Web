@@ -1,2 +1,5 @@
-# Projetos-Curso-Dev-Web
-Projetos desenvolvidos durante o curso de Desenvolvimento Web da Udemy
+<div align="center">
+<h1> Desenvolvimento Web </h1>
+</div>
+
+Projetos desenvolvidos no curso de Desenvolvimento Web da Udemy
